@@ -101,18 +101,6 @@ df.to_csv("Cleaned_Sales.csv", index=False)
 - Prepare inventory and promotions ahead of Q4 demand spikes.
 - Continue investing in Technology-related product categories.
 
----
-
-## Dashboard Preview
-
-Add a screenshot of your dashboard here:
-
-```markdown
-![Dashboard Screenshot](dashboard_screenshot.png)
-```
-
----
-
 ## Skills Demonstrated
 
 - Data Cleaning
