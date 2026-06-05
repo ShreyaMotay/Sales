@@ -103,20 +103,6 @@ df.to_csv("Cleaned_Sales.csv", index=False)
 
 ---
 
-## Project Structure
-
-```text
-Retail-Sales-Analysis
-│
-├── Sales.ipynb
-├── Cleaned_Sales.csv
-├── Project.pbix
-├── README.md
-└── dashboard_screenshot.png
-```
-
----
-
 ## Dashboard Preview
 
 Add a screenshot of your dashboard here:
@@ -138,8 +124,4 @@ Add a screenshot of your dashboard here:
 - Power BI Dashboard Development
 - Python (Pandas)
 
----
 
-## Resume Description
-
-Developed an end-to-end retail sales analytics solution using Python and Power BI. Cleaned and transformed transactional sales data, analyzed revenue and profit trends, and built interactive dashboards to identify top-performing products, regions, and seasonal sales patterns. Generated business insights to support data-driven decision-making.
